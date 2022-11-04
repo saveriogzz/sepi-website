@@ -26,9 +26,9 @@ const Call = props => {
         {data.contactJson.phone && (
           <div className="call-phone">
             <strong>Phone: </strong>
-            {' '}
-            { data.contactJson.phone }
-            {' '}
+            <a href={`tel:${data.contactJson.phone}`}>
+              {data.contactJson.phone}
+            </a>
           </div>
         )}
         {data.contactJson.email && (
