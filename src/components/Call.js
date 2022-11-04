@@ -7,6 +7,7 @@ const Call = props => {
         contactJson {
           phone
           email
+          address
           contact_button_link
         }
     }
@@ -14,6 +15,14 @@ const Call = props => {
   return (
     <div className="call">
       <div className="call-box-top">
+        {data.contactJson.address && (
+          <div className="call-address">
+            <strong>Address: </strong>
+            {' '}
+            { data.contactJson.address }
+            {' '}
+          </div>
+        )}
         {data.contactJson.phone && (
           <div className="call-phone">
             <strong>Phone: </strong>
