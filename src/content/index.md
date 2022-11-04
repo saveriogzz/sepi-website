@@ -5,6 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Gatsby Business Theme.
+# Tandartspraktijk Dorpstraat
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Welkom op de website van tandartspraktijk Dorpsstraat in Zwaag.  
+**Tandarts T. Bajory**.

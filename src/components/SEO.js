@@ -11,7 +11,7 @@ const SEO = props => (
       return (
         <Helmet
           htmlAttributes={{
-            lang: 'en'
+            lang: 'nl'
           }}
           title={title}
           titleTemplate={props.title ? `%s` : `%s - ${data.site.siteMetadata.title}`}
@@ -25,7 +25,7 @@ const SEO = props => (
 );
 
 SEO.defaultProps = {
-  lang: 'en',
+  lang: 'nl',
   meta: [],
   keywords: []
 };

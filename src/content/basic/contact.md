@@ -5,13 +5,19 @@ date: 2018-02-22T17:01:34+07:00
 template: "contact"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+# Openingstijden
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+|    Dag    |     Morgen       |      Middag       |
+| --------- | ---------------- | ----------------- |
+| Maandag   | 8.15 - 12.15 uur | 13.15 – 16.45 uur |
+| Dinsdag   | 8.15 – 12.15 uur | 13.15 – 16.45 uur |
+| Woensdag  | 8.15 – 12.15 uur | 13.15 – 16.45 uur |
+| Donderdag | 8.15 – 12.15 uur | 13.15 – 16.45 uur |
+| Vrijdag   | 8.15 – 11.30 uur |                   |
+
+# Bereikbaar per auto
+
+Maatschap Soeteman is goed bereikbaar per auto.  
+
+Binnen een straal van 0 meter zijn er 8 parkeerplaats(en).  
+U kunt hier gratis parkeren.
