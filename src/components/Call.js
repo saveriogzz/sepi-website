@@ -15,12 +15,12 @@ const Call = props => {
   return (
     <div className="call">
       <div className="call-box-top">
-        {data.contactJson.address && (
-          <div className="call-address">
-            <strong>Address: </strong>
-            {' '}
-            { data.contactJson.address }
-            {' '}
+      {data.contactJson.email && (
+          <div className="call-email">
+            <strong>Email: </strong>
+            <a href={`mailto:${data.contactJson.email}`}>
+              {data.contactJson.email}
+            </a>
           </div>
         )}
         {data.contactJson.phone && (
@@ -31,12 +31,12 @@ const Call = props => {
             </a>
           </div>
         )}
-        {data.contactJson.email && (
-          <div className="call-email">
-            <strong>Email: </strong>
-            <a href={`mailto:${data.contactJson.email}`}>
-              {data.contactJson.email}
-            </a>
+        {data.contactJson.address && (
+          <div className="call-address">
+            <strong>Address: </strong>
+            {' '}
+            { data.contactJson.address }
+            {' '}
           </div>
         )}
       </div>
